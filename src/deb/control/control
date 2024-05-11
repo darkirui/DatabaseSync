@@ -1,0 +1,7 @@
+Package: Databasesync
+Version: 1.0
+Section: misc
+Priority: standard
+Architecture: all
+Maintainer: Darius Kirui <dariuskirui@gmail.com>
+Description: For syncing databases to the server
